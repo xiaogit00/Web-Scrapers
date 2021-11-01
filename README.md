@@ -1,4 +1,4 @@
-# Small Scrapers I've built in Python to mine web data
+# Scrapers I've built in Python to mine web data
 
 1 - An Image Site
 
